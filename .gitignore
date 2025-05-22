@@ -1,3 +1,4 @@
 venv/
 logs/
 MLOPS_PROJECT5_CANCER.egg-info/
+.DS_Store
