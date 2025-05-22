@@ -1,4 +1,7 @@
 venv/
 logs/
 MLOPS_PROJECT5_CANCER.egg-info/
+miruns/
+
+# macOS
 .DS_Store
